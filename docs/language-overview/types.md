@@ -280,7 +280,7 @@ it is also possible to implicitly return if it is Empty using `!` and panic with
 To learn more about the Optional type and error handling in C3, read the page on [Optionals and error handling](../language-common/optionals-essential.md).
 
 !!! note
-    If you want a more regular "optional" value, to store in structs, then you can use the generic `Maybe` type in std::colletions.
+    If you want a more regular "optional" value, to store in structs, then you can use the generic `Maybe` type in std::collections.
 
 ## The `fault` type 
 
