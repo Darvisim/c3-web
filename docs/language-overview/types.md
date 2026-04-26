@@ -57,7 +57,7 @@ are common to all C3 runtime types:
 5. `qnameof` - Returns a string with the qualified (using the full path) name of the type.
 6. `sizeof` - Returns the storage size of the type in bytes.
 7. `typeid` - Returns a runtime typeid for the type.
-8. `methodsof` - Retuns the methods implemented for a type.
+8. `methodsof` - Returns the methods implemented for a type.
 9. `has_tagof(tagname)` - Returns true if the type has a particular tag.
 10. `tagof(tagname)` - Retrieves the tag defined on the type.
 11. `is_eq` - True if the type implements `==`
